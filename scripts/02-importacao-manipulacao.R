@@ -1,6 +1,6 @@
 # Arquivo: 02-importacao-manipulacao.R
-# Autor(a): <seu nome>
-# Data: <dd/mm/aaaa>
+# Autor(a): <Maria Cecília Pereira Mariano>
+# Data: <24/03/2026>
 # Objetivos:
 # 1. Importar um arquivo csv de dados
 # 2. Preparar os dados para análise
