@@ -36,7 +36,9 @@ uma_chance_em
 
 # d)
 # Escreva sua interpretação como comentário.
-
+# essa probabilidade é extremamente baixa, isso signofica que acertar um numero 
+# da lotomania é muito dificil pois existem bilhoes de combinações possiveis 
+# porém, uma quantidade limitada de numeros que pode estar em sua aposta.
 
 
 # Exercício 3 ------------------------------------------------
